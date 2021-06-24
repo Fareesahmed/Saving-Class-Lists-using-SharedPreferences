@@ -1,6 +1,6 @@
 # Saving
 
-A new Flutter project.
+In this project we have discussed about saving our class list in flutter using SharedPreferences
 
 ## Getting Started
 
